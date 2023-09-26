@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonemax", "Phonemax.csproj", "{217B23A8-E107-4E56-A863-8A1E4DFB9C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonemax.Models", "..\Phonemax.Models\Phonemax.Models.csproj", "{96E561A0-C31D-477A-9AD7-4D157A61B281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonemax.dataaccess", "..\Phonemax.dataaccess\Phonemax.dataaccess.csproj", "{44656CD7-5A4F-4425-96B8-2C298D6775EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonemax.uitility", "..\Phonemax.uitility\Phonemax.uitility.csproj", "{705F9B99-2A54-4163-8E94-A4935613014A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{217B23A8-E107-4E56-A863-8A1E4DFB9C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217B23A8-E107-4E56-A863-8A1E4DFB9C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217B23A8-E107-4E56-A863-8A1E4DFB9C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217B23A8-E107-4E56-A863-8A1E4DFB9C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E561A0-C31D-477A-9AD7-4D157A61B281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E561A0-C31D-477A-9AD7-4D157A61B281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E561A0-C31D-477A-9AD7-4D157A61B281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E561A0-C31D-477A-9AD7-4D157A61B281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44656CD7-5A4F-4425-96B8-2C298D6775EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44656CD7-5A4F-4425-96B8-2C298D6775EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44656CD7-5A4F-4425-96B8-2C298D6775EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44656CD7-5A4F-4425-96B8-2C298D6775EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705F9B99-2A54-4163-8E94-A4935613014A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705F9B99-2A54-4163-8E94-A4935613014A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705F9B99-2A54-4163-8E94-A4935613014A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705F9B99-2A54-4163-8E94-A4935613014A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01DC0C20-40D7-4E29-B4D8-3B78B15CCFFE}
+	EndGlobalSection
+EndGlobal

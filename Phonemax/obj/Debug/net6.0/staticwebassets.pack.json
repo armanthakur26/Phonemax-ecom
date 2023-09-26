@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Phonemax.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Phonemax.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\0d3cf7bf-88c0-4fbe-a612-5ad70cc6ad0c.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\0d3cf7bf-88c0-4fbe-a612-5ad70cc6ad0c.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\128805a8-b670-4240-a072-feeaa18bbd03.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\128805a8-b670-4240-a072-feeaa18bbd03.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\2287d0e8-5713-4ba4-8dc0-18077ab6953d.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\2287d0e8-5713-4ba4-8dc0-18077ab6953d.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\369be9a3-ee59-44d3-bd5e-4c078d13e7a5.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\369be9a3-ee59-44d3-bd5e-4c078d13e7a5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\3b24fa69-b1da-4c75-9b07-ccf3e0b3ea68.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\3b24fa69-b1da-4c75-9b07-ccf3e0b3ea68.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\601193d3-2784-41f0-8e61-641052b3e152.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\601193d3-2784-41f0-8e61-641052b3e152.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\67069c92-7db1-456d-851d-dfb252e0689e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\67069c92-7db1-456d-851d-dfb252e0689e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\78160064-01c2-4e0a-9631-e427167acbae.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\78160064-01c2-4e0a-9631-e427167acbae.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\933367a1-f66d-4094-b41a-c15658a0e13f.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\933367a1-f66d-4094-b41a-c15658a0e13f.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\9dceb19c-ff04-4a8f-a3e8-63d00cec797d.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\9dceb19c-ff04-4a8f-a3e8-63d00cec797d.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\b4824fbc-64e1-498e-bf9c-b93825b684e5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\b4824fbc-64e1-498e-bf9c-b93825b684e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\beb1ea4e-ca5c-4215-8951-27ade20cfbc4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\beb1ea4e-ca5c-4215-8951-27ade20cfbc4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\de74f871-9146-4de6-821b-aa9a624ba46e.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\de74f871-9146-4de6-821b-aa9a624ba46e.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\e7f94348-4a49-4905-b96d-f986f050bb54.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\e7f94348-4a49-4905-b96d-f986f050bb54.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\f8e54645-3bd0-49b6-bf83-fcca910b2535.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\f8e54645-3bd0-49b6-bf83-fcca910b2535.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\Product\\vivoy21l.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\vivoy21l.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\noresultfound.png",
+      "PackagePath": "staticwebassets\\Images\\noresultfound.png"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\orderconfirm.gif",
+      "PackagePath": "staticwebassets\\Images\\orderconfirm.gif"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\phone1.jpg",
+      "PackagePath": "staticwebassets\\Images\\phone1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\phone2.jpg",
+      "PackagePath": "staticwebassets\\Images\\phone2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\Images\\success1.webp",
+      "PackagePath": "staticwebassets\\Images\\success1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\js\\Allinone.js",
+      "PackagePath": "staticwebassets\\js\\Allinone.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\js\\Category.js",
+      "PackagePath": "staticwebassets\\js\\Category.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\js\\Company.js",
+      "PackagePath": "staticwebassets\\js\\Company.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\js\\Covertype.js",
+      "PackagePath": "staticwebassets\\js\\Covertype.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\js\\Processor.js",
+      "PackagePath": "staticwebassets\\js\\Processor.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\js\\Product.js",
+      "PackagePath": "staticwebassets\\js\\Product.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\js\\User.js",
+      "PackagePath": "staticwebassets\\js\\User.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\js\\pending.js",
+      "PackagePath": "staticwebassets\\js\\pending.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\phonemax\\Phonemax\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Phonemax.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Phonemax.props",
+      "PackagePath": "build\\Phonemax.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Phonemax.props",
+      "PackagePath": "buildMultiTargeting\\Phonemax.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Phonemax.props",
+      "PackagePath": "buildTransitive\\Phonemax.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
